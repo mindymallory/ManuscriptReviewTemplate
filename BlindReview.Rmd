@@ -1,0 +1,22 @@
+---
+title: "Comments on 'Manuscript Title'"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: pdf_document
+csl: american-journal-of-agricultural-economics.csl.txt
+bibliography: Review.bib
+---
+
+
+**General Comments**
+
+
+
+ 
+
+
+**Specific Comments**
+
+1. See [@akerlof1970market]
+
+
+**References** 
