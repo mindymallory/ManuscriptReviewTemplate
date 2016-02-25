@@ -4,7 +4,7 @@ author: "Prepared by Mindy Mallory"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: pdf_document
 csl: american-journal-of-agricultural-economics.csl.txt
-bibliography: review.bib
+bibliography: Review.bib
 ---
 
 
