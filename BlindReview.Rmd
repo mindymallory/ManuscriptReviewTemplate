@@ -1,5 +1,5 @@
 ---
-title: "Comments on 'Manuscript Title'"
+title: "Comments on MS#000000, 'Manuscript Title'"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: pdf_document
 csl: american-journal-of-agricultural-economics.csl.txt
